@@ -6,8 +6,8 @@ import Posts from './_components/Posts'
 import Footer from './_components/Footer'
 
 const documentProps = {
-  title: 'Diu',
-  description: 'Diu (ddiu8081), Developer.'
+  title: 'Luc\'s Page',
+  description: 'Lucian(bunizao), Student.'
 }
 
 const Page: Component = () => {

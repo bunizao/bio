@@ -24,7 +24,7 @@ const PostItem = (props: PostProps) => {
 export default () => {
   const [postLists] = createResource(getLatestPosts)
   const openLink = () => {
-    window.open('https://notes.ljl.li', '_blank')
+    window.open('https://buxx.me', '_blank')
   }
   return (
     <>

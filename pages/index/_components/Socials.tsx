@@ -33,44 +33,29 @@ export default () => {
   const socialLists = [
     {
       text: 'Github',
-      link: 'https://github.com/ddiu8081',
+      link: 'https://github.com/bunizao',
       icon: 'i-ri-github-fill',
       class: 'hover:bg-gray-700 dark:hover:bg-white dark:hover:text-gray-900'
     }, {
       text: 'Blog',
-      link: 'https://notes.ljl.li',
+      link: 'https://buxx.me',
       icon: 'i-ri-book-2-line',
       class: 'hover:bg-gray-700 dark:hover:bg-white dark:hover:text-gray-900'
     }, {
-      text: '',
-      link: 'https://twitter.com/ddiu8081',
-      icon: 'i-simple-icons:x',
+      text: 'Email',
+      link: 'mailto:bonjour@buxx.me',
+      icon: 'i-ri-mail-line',
       class: 'hover:bg-[#000000] dark:hover:bg-white dark:hover:text-gray-900'
     }, {
-      text: '',
-      link: 'https://mas.to/@ddiu8081',
-      icon: 'i-fa-brands-mastodon',
-      class: 'hover:bg-[#3088d4]'
-    }, {
-      text: '',
-      link: 'https://www.instagram.com/dzpszied/',
+      text: 'Instagram',
+      link: 'https://www.instagram.com/bunizao_/',
       icon: 'i-fa-brands-instagram',
       class: 'hover:bg-gradient-to-r from-[#fd5949] to-[#d6249f]'
     }, {
-      text: '',
-      link: 'https://figma.com/@ddiu8081',
-      icon: 'i-fa-brands-figma',
-      class: 'hover:bg-[#f7c104]'
-    }, {
-      text: '',
-      link: 'https://space.bilibili.com/541993',
-      icon: 'i-ri-bilibili-fill',
-      class: 'hover:bg-[#fb7299]'
-    }, {
-      text: '',
-      link: 'https://www.xiaohongshu.com/user/profile/5d7e751900000000010010bd',
-      icon: 'i-simple-icons:xiaohongshu',
-      class: 'hover:bg-[#ff2442]'
+      text: 'Telegram',
+      link: 'https://t.me/hututu0',
+      icon: 'i-fa-brands-telegram',
+      class: 'hover:bg-gradient-to-r from-[#0077b5] to-[#0077b5]'
     }
   ]
 
