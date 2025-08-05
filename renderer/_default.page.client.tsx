@@ -7,6 +7,10 @@ import '@unocss/reset/tailwind.css'
 import '../assets/main.css'
 import '../assets/font.css'
 
+import { inject } from "@vercel/analytics"
+
+inject()
+
 let dispose: () => void
 
 const render = async (pageContext: PageContextBuiltInClient & PageContext) => {

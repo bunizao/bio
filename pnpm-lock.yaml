@@ -14,6 +14,9 @@ importers:
       '@unocss/reset':
         specifier: ^0.47.5
         version: 0.47.5
+      '@vercel/analytics':
+        specifier: ^1.5.0
+        version: 1.5.0
       dayjs:
         specifier: ^1.11.7
         version: 1.11.7
@@ -364,6 +367,32 @@ packages:
     resolution: {integrity: sha512-m2IU/zLWRmdJIYt8HQc1LLEuricV5aszQI0MhtY7FSiCXKrQT1Zc8XMRTFWTMcKfjkYpr0n3E9YUsaPtCLc6Cg==}
     peerDependencies:
       vite: ^2.9.0 || ^3.0.0-0
+
+  '@vercel/analytics@1.5.0':
+    resolution: {integrity: sha512-MYsBzfPki4gthY5HnYN7jgInhAZ7Ac1cYDoRWFomwGHWEX7odTEzbtg9kf/QSo7XEsEAqlQugA6gJ2WS2DEa3g==}
+    peerDependencies:
+      '@remix-run/react': ^2
+      '@sveltejs/kit': ^1 || ^2
+      next: '>= 13'
+      react: ^18 || ^19 || ^19.0.0-rc
+      svelte: '>= 4'
+      vue: ^3
+      vue-router: ^4
+    peerDependenciesMeta:
+      '@remix-run/react':
+        optional: true
+      '@sveltejs/kit':
+        optional: true
+      next:
+        optional: true
+      react:
+        optional: true
+      svelte:
+        optional: true
+      vue:
+        optional: true
+      vue-router:
+        optional: true
 
   '@zkochan/rimraf@2.1.2':
     resolution: {integrity: sha512-Lc2oK51J6aQWcLWTloobJun5ZF41BbTDdLvE+aMcexoVWFoFqvZmnZoyXR2IZk6NJEVoZW8tjgtvQLfTsmRs2Q==}
@@ -1487,6 +1516,8 @@ snapshots:
       vite: 3.2.5
     transitivePeerDependencies:
       - rollup
+
+  '@vercel/analytics@1.5.0': {}
 
   '@zkochan/rimraf@2.1.2':
     dependencies:
