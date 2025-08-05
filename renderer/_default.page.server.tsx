@@ -18,9 +18,9 @@ const render = (pageContext: PageContext) => {
     <html lang="en">
       <head>
         <meta charset="UTF-8" />
-        <meta name="author" content="Diu" />
-        <meta property="og:title" content="Diu" />
-        <meta property="og:image" content="https://ddiu.io/avatar.png" />
+        <meta name="author" content="bunizao" />
+        <meta property="og:title" content="bunizao" />
+        <meta property="og:image" content="https://avatars.githubusercontent.com/u/102936102" />
         <meta property="description" content="${description}" />
         <meta property="og:description" content="${description}" />
         <meta name="twitter:card" content="summary" />
