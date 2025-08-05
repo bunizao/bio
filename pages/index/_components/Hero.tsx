@@ -16,7 +16,7 @@ export default () => {
             <span>🎓 <span class="font-mono">DataScience</span> Student @ <span class="font-monash font-bold">MONASH</span> <span class="font-mono">'28</span>&nbsp;&nbsp;/&nbsp;&nbsp;♎️ <span class="font-monash font-bold">Libra</span> in <span class="font-mono">'06</span></span>&nbsp;&nbsp;/&nbsp;&nbsp;🧚 <span class="font-mono">INFP-T</span>
         </div>
         <div class="mt-2">
-          <span>🌐 Exploring the depths of the inter through <span class="font-mono keyword-box">🌍 BGP</span>, <span class="font-mono keyword-box">💻 Coding</span>, and <span class="font-mono keyword-box">🔗 Web3</span>.</span>
+          <span>🌐 Exploring the depths of the Internet through <span class="font-mono keyword-box">🌍 BGP</span>, <span class="font-mono keyword-box">💻 Coding</span>, and <span class="font-mono keyword-box">🔗 Web3</span>.</span>
         </div>
         <div class="mt-2">
           <span>✨ Also a <span class="font-mono keyword-box">🎬 Cinephile</span>, <span class="font-mono keyword-box">✍️ Blogger</span>, and <span class="font-mono keyword-box">📖 Perpetual learner</span>.</span>
