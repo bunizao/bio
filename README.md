@@ -5,4 +5,4 @@
 ##### gorgeous
 
 `https://bio.buxx.me`
-##### Thank you Vercel!
+### 🩵 Thank you Vercel!
