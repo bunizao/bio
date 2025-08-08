@@ -21,7 +21,7 @@ const render = (pageContext: PageContext) => {
         <meta name="author" content="bunizao" />
         <meta property="og:title" content="bunizao" />
         <meta property="og:image" content="https://avatars.githubusercontent.com/u/102936102" />
-        <meta property="description" content="${description}" />
+        <meta name="description" content="${description}" />
         <meta property="og:description" content="${description}" />
         <meta name="twitter:card" content="summary" />
         <meta name="twitter:creator" content="@ddiu8081" />
