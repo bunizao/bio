@@ -7,9 +7,20 @@ export default () => {
   return (
     <header class="mt-12 md:mt-18">
       <h1 class="title text-5xl font-bold">
-        <span class="block">Hello, </span><span class="block mt-2">I'm<span class="inline-flex items-baseline gap-2 whitespace-nowrap">&nbsp;<span class="highlight">Lucian</span>
-    <span class="text-slate-400/80 text-[0.4em] font-mono italic" lang="en-fonipa" aria-hidden="true">/ˈluːʃən/</span></span>
-    </span>
+        <span class="block">Hello, </span>
+        <span class="block mt-2">
+          I'm{' '}
+          <span class="inline-flex flex-wrap items-baseline gap-2 sm:flex-nowrap">
+            <span class="highlight">Lucian</span>
+            <span
+              class="text-slate-400/80 text-[0.4em] font-mono italic"
+              lang="en-fonipa"
+              aria-hidden="true"
+            >
+              /ˈluːʃən/
+            </span>
+          </span>
+        </span>
       </h1>
       <div class="mt-6">
         <div>
