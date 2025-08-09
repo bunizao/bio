@@ -19,7 +19,7 @@ export default () => {
           <span>🌐 Exploring the depths of the Internet through <span class="font-mono keyword-box">🌍 BGP</span>, <span class="font-mono keyword-box">💻 Coding</span>, and <span class="font-mono keyword-box">🔗 Web3</span>.</span>
         </div>
         <div class="mt-2">
-          <span>✨ Also a <span class="font-mono keyword-box">🎬 Cinephile</span>, <span class="font-mono keyword-box">✍️ Blogger</span>, and <span class="font-mono keyword-box">📖 Perpetual learner</span>.</span>
+          <span>✨ Also a <span class="font-mono keyword-box">🎬 Cinephile</span>, <span class="font-mono keyword-box">✍️ Blogger</span> <span class="whitespace-nowrap">and</span> <span class="font-mono keyword-box">📖 Perpetual learner</span>.</span>
         </div>
       </div>
       <Socials />
